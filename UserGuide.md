@@ -53,7 +53,7 @@ For adding more reliability we have added three master keys you can use by using
 
    ![Aspose Words 23aa57ea-67eb-4d68-b268-2bde6ce9545a 001](https://user-images.githubusercontent.com/67281513/169537986-51511757-2fba-4d86-bd4d-1a9c68764b0c.png)
 
-**System lighting control**
+###**System lighting control**
 
 ![image](https://user-images.githubusercontent.com/67281513/169539999-72ae50c6-6598-4882-b057-577c5e6955fc.png)
 
